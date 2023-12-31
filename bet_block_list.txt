@@ -1,12 +1,3 @@
-################################################################
-# MaManKuB Recommended Block List                              #
-# Last updated: 2023-12-31 10:37:01 +07                        #
-#                                                              #
-# Use at your own risk. No warranties are implied.             #
-# Source: https://github.com/mamankub/                         #
-################################################################
-#
-# Domain Casino Online
 lalikabet168.com
 boston777.co
 ufafat.bet
