@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 31 December 2023 11:02:29 (+7)
+# Date: 1 January 2024 10:54:29 (+7)
 # Number of unique domains: 45
 #
 # ===============================================================
@@ -98,3 +98,5 @@
 0.0.0.0 www.vave.com
 0.0.0.0 ng24h.co
 0.0.0.0 www.ng24h.co
+0.0.0.0 ufathai24.net
+0.0.0.0 www.ufathai24.net
